@@ -60,6 +60,8 @@ Choose one of the following methods:
 - `campaign.csv`: CSV file containing the transformed campaign data.
 - `contacts.csv`: CSV file containing the transformed contact data.
 - `crowdfunding_db_schema.sql`: SQL file containing the database schema for the PostgreSQL database.
+- `crowdfunding_db_dml.sql`: SQL file containing the database manipulation codes in SQL.
+- `crowdfunding_db.sql`: SQL backup of the database.
 
 ### Outputs
 - **Category DataFrame (`category.csv`)**:
